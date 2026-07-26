@@ -18,12 +18,19 @@
 
 ### 🔭 What I work on
 
-I build machine learning systems for spacecraft perception, navigation, and autonomy — combining deep learning, reinforcement learning, and computer vision with classical GNC problems.
+I build machine learning systems for spacecraft systems, perception, navigation, and autonomy — combining deep learning, reinforcement learning, meta-learning, and computer vision for  enhancing space operations.
+
+- 🌕 ** Multi-layer intelligence: MARL, CTDE, smart search, distributed learning, meta-learning ** — Space Traffic Management, Space Situational Awareness (OrbitFlow Dynamics)
+- 🤖 **Deep MARL, Intelligent crater mapping, Safe filtering, centralized autonomy ** — Precision Lunar navigation and Landing (Crater-ion)
 
 - 🌕 **Vision-based navigation** — crater detection, ellipse regression, star trackers
-- 🤖 **Reinforcement learning for GNC** — spacecraft rendezvous & docking, constellation routing
+- 🤖 **Reinforcement learning for GNC** — spacecraft rendezvous & docking, Mega constellation routing
 - 🛰️ **Satellite image processing** — super-resolution & inpainting for optical navigation
-- 🎓 Currently pursuing my **MSc in Satellite Technology & Space Engineering** at JMU Würzburg
+- 🎓  **PhD Canidate in Aerospace engineering **  University of Carleton , Ottawa ,Canada  
+
+- 🎓 Holds **MSc in Satellite Technology & Space Engineering** from Julius Maximiliana Universität Würzburg (JMU)/University of Carleton 
+- 🎓 Holds **MSc in Cryptography and AI ** from University of Concordia  Montreal ,Canada
+
 
 ---
 
