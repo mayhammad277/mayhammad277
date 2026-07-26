@@ -5,10 +5,20 @@
 
 $~~~~~~~~~~~$
 $~~~~~~~~~~~$
+$~~~~~~~~~~~$
+$~~~~~~~~~~~$
+
 
 
 
 **My work sits at the intersection of two increasingly inseparable domains: rigorous astrodynamics and modern deep learning. I build systems that work not just in simulation, but under the real conditions of space, degraded sensors, off-nominal dynamics, and no possibility of human intervention.  </h3>
+
+
+$~~~~~~~~~~~$
+$~~~~~~~~~~~$
+$~~~~~~~~~~~$
+$~~~~~~~~~~~$
+
 
 <p align="center">
   🛰️ Research focus: GNC & AOCS Engineer | AI for Spacecraft Autonomy · Vision Navigation · STM . Star Tracking · On-Orbit Servicing.Proximity Operations. Autonomous Rendezvous & Docking ·   RL.  Meta-learning.  Constellation Design
