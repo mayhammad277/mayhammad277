@@ -1,6 +1,6 @@
 
 <<h1 align="center">Hi, I'm May 👋</h1>
-<h3 align="center">🚀I'm a Space Systems Engineer specialising in GNC, AOCS  and spacecraft autonomy, and AI-driven navigation, with a research background spanning reinforcement learning for autonomous docking, vision-based pose estimation, star tracker development,   AI-based optical navigation systems, and STM/SSA systems. 
+<h3 align="center">🚀I'm the CEO @OrbitFlow Dynamics, a Space Systems Engineer specialising in GNC, AOCS  and spacecraft autonomy, and AI-driven navigation, with a research background spanning reinforcement learning for autonomous docking, vision-based pose estimation, star tracker development,   AI-based optical navigation systems, and STM/SSA systems. 
 
 
 $~~~~~~~~~~~$
