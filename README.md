@@ -1,8 +1,12 @@
 
 <<h1 align="center">Hi, I'm May 👋</h1>
-<h3 align="center">🚀I'm a Space Systems Engineer specialising in GNC, AOCS  and spacecraft autonomy, and AI-driven navigation , with a research background spanning reinforcement learning for autonomous docking, vision-based pose estimation, star tracker development,   AI-based optical navigation systems, and STM systems. 
+<h3 align="center">🚀I'm a Space Systems Engineer specialising in GNC, AOCS  and spacecraft autonomy, and AI-driven navigation, with a research background spanning reinforcement learning for autonomous docking, vision-based pose estimation, star tracker development,   AI-based optical navigation systems, and STM/SSA systems. 
 
-My work sits at the intersection of two increasingly inseparable domains: rigorous astrodynamics and modern deep learning. I build systems that work not just in simulation, but under the real conditions of space, degraded sensors, off-nominal dynamics, and no possibility of human intervention.  </h3>
+
+
+
+
+**My work sits at the intersection of two increasingly inseparable domains: rigorous astrodynamics and modern deep learning. I build systems that work not just in simulation, but under the real conditions of space, degraded sensors, off-nominal dynamics, and no possibility of human intervention.  </h3>
 
 <p align="center">
   🛰️ Research focus: GNC & AOCS Engineer | AI for Spacecraft Autonomy · Vision Navigation · STM . Star Tracking · On-Orbit Servicing.Proximity Operations. Autonomous Rendezvous & Docking ·   RL.  Meta-learning.  Constellation Design
@@ -16,6 +20,10 @@ My work sits at the intersection of two increasingly inseparable domains: rigoro
 </p>
 
 ---
+
+
+
+
 
 ### 🔭 What I work on
 
@@ -47,6 +55,23 @@ I build machine learning systems for spacecraft systems, perception, navigation,
 | ⭐ [**Stellar Transformer V2**](https://github.com/mayhammad277/Stellar-Transformer-V2) | Celestial attitude determination using Swinv2 Transformers and Focal Loss, with automated star-map extraction |
 
 ---
+
+### 🌟 Publications 
+
+[IAA AI4Space 2026] Star-Fusion: Multi-modal Transformer for Discrete Celestial Orientation via Spherical Topology (2026)
+arxiv.org/abs/2604.26582
+[IAC 2026] Stellar Transformers: Vision Transformers for Autonomous Star Tracking and Attitude Estimation (2026)
+[IAA AI4space ] Real-Time Random Exploring Trees for Collision-Free Spacecraft Path Planning , Rendezvous, and Docking (2026)
+[IAA AI4space ] Efficient Reinforcement Learning For Collision-Free Spacecraft Rendezvous and Docking (2026)
+[IAA AI4space ] A Corruption-Aware Image Restoration Framework for Spaceborne Optical Navigation Using the SPEED+ Dataset (2026)
+[IAC 2024] Innovative AI-Based Star Tracker for Deep Space Exploration (2024)[IAC 2023] Deep Learning for Vision-Based Spacecraft Navigation (2023)
+[IAC 2022] Space Transportation Systems: Lessons Learned from Deep Space Missions (2022)
+[ICPRAI 2020] Characterizing Pre-Trained Features in Video Captioning (2020)
+
+
+
+---
+
 
 ### 🛠️ Tech Stack
 
