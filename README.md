@@ -1,10 +1,12 @@
 ## Hi there 👋
 
 <<h1 align="center">Hi, I'm May 👋</h1>
-<h3 align="center">🚀 Aerospace & AI Engineer | MSc Satellite Technology & Space Engineering @ JMU Würzburg</h3>
+<h3 align="center">🚀I'm a Space Systems Engineer specialising in GNC, AOCS  and spacecraft autonomy, and AI-driven navigation , with a research background spanning reinforcement learning for autonomous docking, vision-based pose estimation, star tracker development,   AI-based optical navigation systems, and STM systems. 
+
+My work sits at the intersection of two increasingly inseparable domains: rigorous astrodynamics and modern deep learning. I build systems that work not just in simulation, but under the real conditions of space, degraded sensors, off-nominal dynamics, and no possibility of human intervention.  </h3>
 
 <p align="center">
-  🛰️ Research focus: Spacecraft Autonomy · GNC · Vision-Based Navigation
+  🛰️ Research focus: GNC & AOCS Engineer | AI for Spacecraft Autonomy · Vision Navigation · STM . Star Tracking · On-Orbit Servicing.Proximity Operations. Autonomous Rendezvous & Docking ·   RL.  Meta-learning.  Constellation Design
 </p>
 
 <p align="center">
