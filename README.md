@@ -47,7 +47,7 @@ I build machine learning systems for spacecraft systems, perception, navigation,
 - 🌕 **Vision-based navigation** — crater detection, ellipse regression, star trackers
 - 🤖 **Reinforcement learning for GNC** — spacecraft rendezvous & docking, Mega constellation routing
 - 🛰️ **Satellite image processing** — super-resolution & inpainting for optical navigation
-- 🎓  **PhD Canidate in Aerospace engineering **  University of Carleton , Ottawa ,Canada  
+- 🎓  **PhD Student in Aerospace engineering **  University of Carleton , Ottawa ,Canada  
 
 - 🎓 Holds **MSc in Satellite Technology & Space Engineering** from Julius Maximiliana Universität Würzburg (JMU)/University of Carleton 
 - 🎓 Holds **MSc in Cryptography and AI ** from University of Concordia  Montreal ,Canada
@@ -72,13 +72,29 @@ I build machine learning systems for spacecraft systems, perception, navigation,
 
 - [IAA AI4Space 2026] Star-Fusion: Multi-modal Transformer for Discrete Celestial Orientation via Spherical Topology (2026)
 arxiv.org/abs/2604.26582
+$~~~~~~~~~~~$
+
 - [IAC 2026] Stellar Transformers: Vision Transformers for Autonomous Star Tracking and Attitude Estimation (2026)
+ $~~~~~~~~~~~$
+
 - [IAA AI4space ] Real-Time Random Exploring Trees for Collision-Free Spacecraft Path Planning , Rendezvous, and Docking (2026)
+
+$~~~~~~~~~~~$
+
 - [IAA AI4space ] Efficient Reinforcement Learning For Collision-Free Spacecraft Rendezvous and Docking (2026)
+$~~~~~~~~~~~$
+  
 - [IAA AI4space ] A Corruption-Aware Image Restoration Framework for Spaceborne Optical Navigation Using the SPEED+ Dataset (2026)
+$~~~~~~~~~~~$
+  
 - [IAC 2024] Innovative AI-Based Star Tracker for Deep Space Exploration (2024)[IAC 2023] Deep Learning for Vision-Based Spacecraft Navigation (2023)
+$~~~~~~~~~~~$
+  
 - [IAC 2022] Space Transportation Systems: Lessons Learned from Deep Space Missions (2022)
+$~~~~~~~~~~~$
+
 - [ICPRAI 2020] Characterizing Pre-Trained Features in Video Captioning (2020)
+$~~~~~~~~~~~$
 
 
 
