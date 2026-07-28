@@ -54,7 +54,7 @@ $~~~~~~~~~~~$
 
 I build machine learning systems for spacecraft systems, perception, navigation, and autonomy — combining deep learning, reinforcement learning, meta-learning, and computer vision for  enhancing space operations.
 
-- 🌕 ** Multi-layer intelligence: MARL, CTDE, smart search, distributed learning, meta-learning ** — Space Traffic Management, Space Situational Awareness (OrbitFlow Dynamics)
+- 🌕 ** Multi-layer intelligence: CTDE, smart search, distributed learning, meta-learning ** — Space Traffic Management, Space Situational Awareness (OrbitFlow Dynamics)
 - 🤖 **Deep MARL, Intelligent crater mapping, Safe filtering, centralized autonomy ** — Precision Lunar navigation and Landing (Crater-ion)
 
 - 🌕 **Vision-based navigation** — crater detection, ellipse regression, star trackers
